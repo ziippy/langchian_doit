@@ -1,2 +1,4 @@
 /.venv/
 .idea
+.env
+chart_agent/__pycache__/
