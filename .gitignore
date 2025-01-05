@@ -2,3 +2,4 @@
 .idea
 .env
 chart_agent/__pycache__/
+build_recommend_system/movie-lancedb
